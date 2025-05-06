@@ -1,0 +1,297 @@
+text,label,scores,AI_label
+Bakery selling fresh bread and pastries | production of bakery products,1071,0.9490037201717788,1071
+Retail pharmacy selling medicines and health products | retail sale of pharmaceutical products,4772,0.9850228128786992,4772
+Mobile phone repair shop | repair of communication equipment,9512,0.8477479306570759,9512
+Car wash services | maintenance and repair of motor vehicles,4520,0.960099171674466,4520
+Women's clothing boutique | retail sale of clothing in specialized stores,4771,0.8149685390323352,4771
+Grocery store selling food staples and household items | retail sale in non-specialized stores with food predominating,4711,0.8187898700962812,4711
+"Hardware store selling tools and building supplies | retail sale of hardware, paints and glass",4752,0.961169314499402,4752
+Furniture manufacturing workshop | manufacture of furniture,3100,0.9860900025603712,3100
+Coffee shop serving beverages and light snacks | restaurants and mobile food service activities,5610,0.9763723798963468,5610
+Electrical appliance repair | repair of household appliances,9522,0.7314275831404976,9522
+Shoe repair shop | repair of footwear and leather goods,9523,0.29807250004836827,9523
+Hairdressing salon | hairdressing and other beauty treatment,9602,0.9934636752793895,9602
+Bookstore selling books and stationery | retail sale of books in specialized stores,4761,0.9803537198601376,4761
+Auto parts retailer | retail sale of automotive parts and accessories,4530,0.32892766753738145,5221
+Fruit and vegetable market | retail sale of fruits and vegetables in specialized stores,4721,0.8562451842790695,4781
+Computer repair services | repair of computers and peripheral equipment,9511,0.8413645055747725,9511
+Tailor shop specializing in men's suits | manufacture of wearing apparel,1410,0.9931488609444566,1410
+Jewelry store | retail sale of watches and jewelry in specialized stores,4773,0.9838226639480361,4773
+Fast food restaurant | restaurants and mobile food service activities,5610,0.9915170769935571,5610
+Convenience store selling snacks and beverages | retail sale in non-specialized stores with food predominating,4711,0.9481723095168823,4711
+decorticator | decorticationg of groundnut,9622,0.8324261798439331,9622
+business | selling of livestock,3323,0.36596365472928716,6121
+business | manufacturing of peanut butter,5211,0.4992181046605015,5211
+gardener | gardening,6111,0.6169666140174506,6113
+tailor | tailoring,7531,0.9653885166165638,7531
+mason | construction,9313,0.5908290717865802,9313
+business | selling,5211,0.4790302682351411,5212
+tailor | tailoring,7531,0.9653885166165638,7531
+driver | driving,8322,0.9573066731152146,8322
+tailor | tailoring,7531,0.9653885166165638,7531
+apprentice in vehicle | collection of transport money,5112,0.6778733585502539,5112
+driver | driving,8322,0.9573066731152146,8322
+plaster-man | plastering of ceiling,7123,0.14536563396697946,4330
+plaster-man | plasting,7123,0.3812125459945031,4100
+tileman | tilling,7122,0.9298045592858034,7122
+carpenter | carpentry,7115,0.9509402793447715,7115
+mason | construction,9313,0.5908290717865802,9313
+decorticator | decoration of groundnut,9622,0.2807441360573213,9622
+business | selling fish,5243,0.25908569505151813,5211
+tiller | tilling,7122,0.6588293474215892,9313
+tailor | tailoring,7531,0.9653885166165638,7531
+groundnut decorticator | decortication of groundnut,9622,0.9597944590092581,9211
+electrician | any other electrical work,7411,0.35372656593306195,7411
+labourer in construction | bricks moulding,7112,0.9644505549734153,4100
+driver | driving,8322,0.9573066731152146,8322
+business | selling,5211,0.4790302682351411,5212
+apprentice | collection of transport fares,5112,0.9077928914909799,5112
+driver | driving,8111,0.9573066731152146,8322
+shepherd | raising cattle,9212,0.5213811170873519,6121
+business | selling of groceries,5211,0.6129974052702255,5211
+mason | construction,9313,0.5908290717865802,9313
+gardener | gardening,6111,0.6169666140174506,6113
+driver | driving,8322,0.9573066731152146,8322
+tailor | tailoring,7531,0.9653885166165638,7531
+mason | construction,9313,0.5908290717865802,9313
+business | preparing and selling food,9411,0.8277749235540024,5212
+business | drying and selling of fish,6222,0.39224808195812205,7511
+businessman | selling,5221,0.2646058421663465,5249
+"financial officer (agib bank), cooperative. | payment",4313,0.2985882510859254,6419
+businesswoman | selling,5211,0.4847526586184092,5212
+labourer | moulding bricks,9313,0.8814788432288069,9313
+businessman | buying and selling groundnut,3323,0.6691567153839161,5211
+gardener | gardening,6111,0.6169666140174506,6113
+driver | driving,8322,0.9573066731152146,8322
+businesswoman | selling,5211,0.4847526586184092,5212
+carpenter | any other carpentry work,7115,0.9225121002502681,7115
+businesswoman | selling,5243,0.4847526586184092,5212
+carpenter | carpentry,7115,0.9509402793447715,7115
+marabout | healing spiritually,2230,0.28664166100059,5161
+sand miner | mining,9311,0.726083654413715,8111
+gardener | gardening,6111,0.6169666140174506,6113
+gardener | gardening,6111,0.6169666140174506,6113
+businesswoman | selling,5243,0.4847526586184092,5212
+gardener | watering,6111,0.48689112341766067,6113
+marabout | spiritual healing,2636,0.4374875500947377,9609
+painter | painting,7131,0.9147210393454125,7131
+labourer | clearing of cashew farm,9622,0.47612806022097465,9211
+carpenter | roofing,7121,0.6006661553822279,7115
+driver | driving,8322,0.9573066731152146,8322
+gardener | gardening,6111,0.6169666140174506,6113
+busineswoman | selling,5211,0.6517064983563999,5212
+gardener | gardening,6111,0.6169666140174506,6113
+teacher/oustass | teaching,2341,0.26980494061322585,2359
+businessman | harvesting and selling palm nuts,5211,0.23266737535446702,5211
+gardener | gardening,6111,0.6169666140174506,6113
+gardener | gardening,6111,0.6169666140174506,6113
+caretaker/security | caretaking,5414,0.805695403807528,8010
+labourer | moulding bricks,9622,0.8814788432288069,9313
+electrical installator | installing appliances,7413,0.39459017135264096,7413
+gardener | gardening,6111,0.6169666140174506,6113
+businesswoman | selling,5211,0.4847526586184092,5212
+fisherman | fishing,6223,0.4022031565261969,6222
+businesswoman | selling,5211,0.4847526586184092,5212
+labourer | moulding bricks,9313,0.8814788432288069,9313
+businessman | selling,5243,0.2646058421663465,5249
+farmer | clearing of cashew farmer,6310,0.8816316344711113,6112
+farmer | clearing of cashew farm,6310,0.8623315770795116,6112
+labourer | moulding bricks,9313,0.8814788432288069,9313
+farmer | clearing cashew farm,6310,0.40150074969084015,6112
+gardener | gardening,6111,0.6169666140174506,6113
+fisherman | fishing,6223,0.4022031565261969,6222
+firewood seller | collecting and selling firewood,9520,0.47788954789099336,9624
+firewood collector and seller | collecting and selling firewood,9520,0.6853139550566157,9624
+cashew farmer | farming,6112,0.8801099254432798,6112
+cook | cooking,5120,0.9728811347183702,5120
+tailor | tailoring,7531,0.9653885166165638,7531
+driver | driving,8322,0.9573066731152146,8322
+businessman | cooking and selling food,5212,0.5039961492535051,5212
+businessman | collecting and selling firewood,9624,0.7292134814906096,9624
+farmer | farmer,6112,0.3235084196783387,6112
+businessman | selling,5221,0.2646058421663465,5249
+gardener | gardening,6111,0.6169666140174506,6113
+labourer in construction | moulding bricks,9313,0.9211980942642566,4100
+farmer | clearing of cashew farm,6310,0.8623315770795116,6112
+businesswoman | selling,5211,0.4847526586184092,5212
+businesswoman | selling,5221,0.4847526586184092,5212
+apprentice | collecting fairs,5112,0.22181787806145362,5112
+farmer | clearing of cashew farm,6114,0.8623315770795116,6112
+driver | driving,8322,0.9573066731152146,8322
+fisherman | fishing,6223,0.4022031565261969,6222
+marabout | spiritual healing,9622,0.4374875500947377,9609
+labour/ birth attendant | health care service,5321,0.24102115525236445,5321
+business | selling,5212,0.4790302682351411,5212
+driving | driving,8322,0.5330329399270018,4921
+wood cutter | wood cutting,9624,0.25709822631583235,7317
+soldier | defense,310,0.5578959444493728,8422
+cattle rearer | cattle rearing,6330,0.35527181717269996,6320
+business | food selling,5211,0.3125580878938626,5212
+business | food seller,5212,0.6713289864347318,5212
+cattle rearer | cattle rearing,6121,0.35527181717269996,6320
+tailor | tailoring,2163,0.9653885166165638,7531
+driver | driving,8322,0.9573066731152146,8322
+farmer | harvesting groundnut,6310,0.3231227427839593,6310
+vendor | selling,5212,0.46459397090642807,5212
+driver | transportation,8322,0.38309041386031767,4923
+businesswoman | selling,9520,0.4847526586184092,5212
+driver | transportation,8321,0.38309041386031767,4923
+driver | driving,8322,0.9573066731152146,8322
+domestic-farm labourer | seed processing,9211,0.34228726726998093,161
+carpenter | carpentry,7115,0.9509402793447715,7115
+wielding | wielding,7214,0.49677427384998446,2410
+driver | driving,8322,0.9573066731152146,8322
+picking groundnut | groundnut,9211,0.7887611813991173,163
+tailor | tailoring,7531,0.9653885166165638,7531
+carpenter | carpentry,7115,0.9509402793447715,7115
+farmer | harvesting crop,9211,0.26026493725863253,9211
+seed processor | seed processing,9211,0.30697776055200954,6111
+baker | baking,9411,0.9867897758066015,7512
+farmer | seed picking,9211,0.24071200937375256,6112
+tailor | tailoring,7531,0.9653885166165638,7531
+marson | construction,9313,0.9822327782290692,4100
+farmer | picking groundnut from field,9211,0.5337152396555047,9211
+farmer | groundnut picking,9211,0.229935431334765,9211
+tailor | tailoring,7531,0.9653885166165638,7531
+teacher | teaching,2353,0.5182512558576946,2330
+groundnut picking | picking groundnut,9211,0.23843679810794532,5211
+groundnut picking | groundnut picking,9211,0.2465130342938505,163
+business | food selling,5212,0.3125580878938626,5212
+businessman | gathering of firewood,9624,0.614487006097101,9624
+business | selling bread,5212,0.3618340508456821,5212
+wood cutter | cutting of wood,7523,0.24851549532548606,7523
+business | buying and selling of groundnut,5211,0.5544556129074006,5211
+carpenter | carpentry,7115,0.9509402793447715,7115
+business in firewood | selling of firewood,9624,0.433934164227439,9520
+program manager | community service,2424,0.12529950359631356,3412
+soap manufacturer | soap maker,5243,0.19232685853991777,5243
+charcoal | charcoal mining,9520,0.3910933491930018,9333
+farm labourer | clearing of farm,9214,0.8084539992868396,9211
+mechanic | repair machines,3115,0.6089496581626409,3312
+carpenter | carpentry,7115,0.9509402793447715,7115
+business | picking ground from field,6310,0.1815225711373964,163
+business | picslks groundnut from field for sale,5211,0.29191333015608023,4799
+wielder | wielding,7212,0.14880842367558383,7214
+gardener | gardening,6111,0.6169666140174506,6113
+gardener | gardening,6111,0.6169666140174506,6113
+fruit gatherer | gathering of wild baobab,9622,0.9645087374708214,6340
+wilder | welding,7212,0.838633890177766,7212
+guards crop from rodents/ birds | protecting crops from rodents/birds,9622,0.12154401505578598,161
+gardener | gardening,6111,0.6169666140174506,6113
+teacher | teaching,2341,0.5182512558576946,2330
+gardener | gardening,6111,0.6169666140174506,6113
+mason | construction,9313,0.5908290717865802,9313
+welder | iron work,7212,0.7470799738233439,7212
+dentist | any other dental services,2261,0.11884843482563427,2211
+teacher | teaching,2341,0.5182512558576946,2330
+carpenter | roofing,7115,0.6006661553822279,7115
+shepherd | cattle rearing,6130,0.44568730917782456,6121
+marabout | spiritual healing,2230,0.4374875500947377,9609
+apprentice in passenger vehicle | any other apprenticeship work in the vehicle,5112,0.4074253400429121,4921
+painter | painting,7131,0.9147210393454125,7131
+program officer | programming of projects,1222,0.08853252612560311,1213
+shopkeeper | selling,5221,0.9749328074985203,5221
+teacher | teaching,2330,0.5182512558576946,2330
+gardener | gardening,6111,0.6169666140174506,6113
+labourer | bricks moulding,9313,0.8340349996916985,9313
+labourer | any other construction activities (ordinary),9313,0.790401451980864,9313
+driver | driving,8322,0.9573066731152146,8322
+gardener | gardening,6111,0.6169666140174506,6113
+farmer | farming,6310,0.39366750756837715,6112
+welder | welding,7212,0.9330630422272114,7212
+labourer in construction | construction,9313,0.9716040140915548,4100
+labourer in construction | moulding bricks,9313,0.9211981453422572,4100
+labourer in construction | moulding bricks,9313,0.9211981453422572,4100
+tailor | tailoring,7531,0.965388445565605,7531
+sand miner | sand mining,8111,0.751514888817833,8111
+businesswoman | selling,5212,0.48483429083081475,5212
+business | selling,9624,0.47902797724079094,5212
+labourer in construction | construction,9313,0.9716040140915548,4100
+driver | driving,8322,0.9573068288024229,8322
+carpenter | carpentry,7115,0.9509412668588577,7115
+farmer | farming,6310,0.393665500904904,6112
+businesswoman | selling groceries,5211,0.48272157250192077,5211
+tileman | tiling floor,7122,0.9491168792235618,7122
+electrician | electrician,3113,0.34252931223947086,4321
+farmer | farming,6310,0.393665500904904,6112
+marabout | spiritual healing,2230,0.4374878340829433,9609
+groundnut decorticator | decoration of groundnut,6310,0.09935713288313389,7131
+carpenter | roofing,7115,0.6006663836513865,7115
+miller | milling of grains,8160,0.8224817867477893,8160
+businesswoman | selling,5211,0.48483429083081475,5212
+driver | driving,8321,0.9573068288024229,8322
+groundnut decorticator | groundnut decorticator,9622,0.48063126719445426,9211
+agricultural labourer | decortication of groundnut,9622,0.9434697544995019,9211
+driver | driving,8322,0.9573068288024229,8322
+farmer | decortication of groundnut,9622,0.7269554781949245,9211
+driver | driving,8322,0.9573068288024229,8322
+businessman | selling,5211,0.26460286748335704,5249
+businesswoman | selling,5212,0.48483429083081475,5212
+mason | building,9313,0.5593268099343613,7111
+mason | construction,9313,0.5908298253892819,9313
+operator of caterpillar | any other road construction duties,9313,0.07515217776044089,4210
+road constructor | operator of caterpillar,9313,0.1453962582393675,3123
+construction labourer | any other road construction duties,9313,0.2923134085391014,9313
+operator of caterpillar | road construction,9313,0.10455741001900816,8350
+day labourer | any other labour activities,9313,0.43344238207897784,9211
+ports labourer | any other landing duties at ports,9333,0.34848227842099444,9629
+businesswoman | selling,5212,0.48483429083081475,5212
+labourer | building,9313,0.7492891143136859,9313
+businessman | selling,5211,0.26460286748335704,5249
+shopkeeper | selling,5221,0.974932760791537,5221
+apprentice in driving | driving,5112,0.2972929946685163,4921
+farmer | farming,6310,0.393665500904904,6112
+mason | construction,9313,0.5908298253892819,9313
+labourer | labourer in onstruction,9313,0.5200975859840151,9313
+businesswoman | selling,5243,0.48483429083081475,5212
+labourer at ports | handling cargoes,9613,0.2334868949602822,9629
+carpenter | carpentry,7115,0.9509412668588577,7115
+well driller | drilling,8113,0.8918478917345478,8113
+wood planner | planning wood,7523,0.17729272209168703,7523
+labourer | handling of cargoes,9321,0.29381824925751693,9333
+farmer | farming,2132,0.393665500904904,6112
+businesswoman | selling,5211,0.48483429083081475,5212
+driver | driving,8322,0.9573068288024229,8322
+businessman | selling,5211,0.26460286748335704,5249
+firewood seller | selling firewood,9624,0.46731146175795696,9624
+businessman | selling,5211,0.26460286748335704,5249
+teacher | teaching,2341,0.5182512903459779,2330
+driver | driving,9332,0.9573068288024229,8322
+farmer | farming,6310,0.393665500904904,6112
+businessman | selling,5212,0.26460286748335704,5249
+mason | construction,9313,0.5908298253892819,9313
+businesswoman | selling clothes,5211,0.3082915423929785,5243
+welder | welding,7212,0.9330624583392348,7212
+fisherman | fishing,6223,0.40220312182925494,6222
+businesswoman | sales of roasted groundnut,5243,0.9587869890091666,5212
+carpenter | carpentry works,7115,0.9580907305908897,7115
+business | sale of roasted groundnut,5243,0.8551261338530457,5212
+electrician | any other electrical work,3114,0.3537217320388737,7411
+businesswoman | sale of food,5212,0.9396318826387231,5212
+businesswoman | sale of fragrance,5212,0.8107883532546225,9520
+businesswoman | sale of roasted groundnut,5243,0.9484739401464524,5212
+community health sensitizer | sensitize on health surrounding women and children,3253,0.17028441939198408,3253
+incinerator | burning of used tools,5321,0.314094329557328,6210
+mason | construction,9313,0.5908298253892819,9313
+businesswoman | selling,5212,0.48483429083081475,5212
+weaver | weaving of clothes,2163,0.4381410874579317,8152
+carpenter | manufacture of beds,7115,0.9591142861343717,7115
+welder | welding,7212,0.9330624583392348,7212
+mechanic | repair of motor vehicles,7231,0.8796576703013161,7231
+businessman | selling of groceries,5211,0.4335386622750179,5211
+businesswoman | selling,5211,0.48483429083081475,5212
+mechanic | repair of motor vehicles,7231,0.8796576703013161,7231
+farmer | farming,6114,0.393665500904904,6112
+businesswoman | selling of roughage,5211,0.8395177200341523,5212
+farmer | farming,6114,0.393665500904904,6112
+businesswoman | making and selling of roughage (netetu),5211,0.9122490427699173,5212
+driver | driving,8322,0.9573068288024229,8322
+motorcycle driver | transportation of passengers,8321,0.9698460255764096,8321
+businesswoman | making and selling roughage,5211,0.7603985602932153,5212
+mason | construction,9313,0.5908298253892819,9313
+labourer | decortication of groundnut,9622,0.9761924712722083,9211
+businesswoman | making and selling roughage,5212,0.7603985602932153,5212
+labourer | decortication of groundnut,9622,0.9761924712722083,9211
+firewood seller | selling of firewood,9624,0.7323726289857896,9520
+businesswoman | selling of roughage,5211,0.8395177200341523,5212
+donkey driver | transportation,9332,0.7074318758553733,9332
