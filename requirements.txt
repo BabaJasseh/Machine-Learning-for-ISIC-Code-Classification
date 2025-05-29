@@ -1,0 +1,23 @@
+# Python 3.13.2
+
+huggingface-hub==0.29.3
+numpy==2.2.3
+streamlit==1.28.1
+pandas==2.2.3
+pyarrow==19.0.1
+safetensors==0.5.3
+scikit-learn==1.6.1
+scipy==1.15.2
+sentencepiece==0.2.0
+simpletransformers==0.70.1
+tokenizers==0.21.1
+torch==2.6
+transformers==4.49.0
+wandb==0.19.8
+pyaudio==0.2.11
+PyPDF2==3.0.1
+SpeechRecognition==3.10.0
+deep-translator==1.11.4
+langdetect==1.0.9
+matplotlib==3.7.2
+chromadb==0.4.15
